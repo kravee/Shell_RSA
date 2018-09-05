@@ -2,7 +2,7 @@
 # Written By   : Evgeniy Kravets
 # Written On   : 30 Aug 2018
 # EMAIL        : evgeniy [DOT] kravets [AT] rsa [DOT] com
-# Description  : 
+# Description  : The script extract the installed patches from the UAT AAH env
 #              : 
 # Updated On   :
 #              :
